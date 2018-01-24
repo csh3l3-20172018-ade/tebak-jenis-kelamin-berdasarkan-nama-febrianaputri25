@@ -42,4 +42,4 @@ elif wanita(name) > pria(name) :
 else: print('Jenis Kelamin : Tidak Diketahui')
 
 
-#setelah dilakukan beberapa kali percobaan ternyata keakuratan dari prediksi nama masih diragukan kebenarannya karena masih banyak nama bergender pria disebutkan bergender wanita
+#setelah dilakukan beberapa kali percobaan ternyata keakuratan dari prediksi nama masih diragukan kebenarannya karena masih banyak nama bergender pria disebutkan bergender wanita dan sebaliknya
